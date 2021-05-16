@@ -1,0 +1,15 @@
+*.pro.user*
+build-*
+*.input
+.in
+*.out
+*.pyc
+*.o
+local_configurations.py
+html/
+!build*.py
+.ssh
+Makefile
+.qmake.stash
+templates/*
+examples/*
