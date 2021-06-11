@@ -13,4 +13,4 @@ Makefile
 .qmake.stash
 templates/*
 examples/*
-node_modules/*
+node_modules/
